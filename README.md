@@ -20,7 +20,7 @@ Business Analytics graduate student turning data into strategy — I work across
 - ☁️ I'm currently learning toward **AWS Certified Cloud Practitioner, AI Practitioner, and Solutions Architect Associate**
 - 🤝 I'm looking to collaborate on **Generative AI, NLP, and data analytics projects**
 - 💬 Ask me about **SQL, Python, R, Tableau, Power BI, LLMs & Agentic AI**
-- 📫 How to reach me: **tam325@lehigh.edu**
+- 📫 How to reach me: **tawandamatiashe2@gmail.com**
 - ⚡ Fun fact: I once analyzed 30,000+ customer records to map a full churn lifecycle
 
 ## 🛠️ Skills
