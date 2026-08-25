@@ -60,14 +60,11 @@ Business Analytics graduate student turning data into strategy — I work across
 
 ## 🛠️ Featured Projects
 
-## 🛠️ Featured Projects
 
-## 🛠️ Featured Projects
-
-- **[Email Marketing Subscriber Churn & Lifecycle Analysis](https://github.com/tawandao2/Email-Marketing-Churn-Analysis)** — Analyzed 30,000+ records with SQL and Python to map a 148-day churn window, projecting a 12–18% lift in retention.
 - **[Consumer Review Sentiment Analysis & Brand Benchmarking (NLP)](https://github.com/tawandao2/Listening-to-Online-Reviews-)** — Evaluated 1,500+ unstructured reviews using R, VADER sentiment analysis, and NLP to benchmark L'Occitane and La Mer on customer satisfaction.
 - **[Predicting Online Book Club Subscriptions](https://github.com/tawandao2/predicting-online-book-club-subscriptions)** — Built linear and logistic regression models on 50,000 customers to predict subscription likelihood, with decile-based targeting for an email marketing campaign.
 - **[Predicting Fraudulent Credit Card Charges with Machine Learning](https://github.com/tawandao2/Predicting-Fraudulent-Credit-Card-Charges-with-Machine-Learning-Models.)** — Identified fraud in a 1.8M transaction dataset with a severe 0.52% class imbalance, using SMOTE and engineered temporal/geographic features to evaluate logistic regression and other models.
+- **[Email Marketing Subscriber Churn & Lifecycle Analysis](https://github.com/tawandao2/Email-Marketing-Churn-Analysis)** — Analyzed 30,000+ records with SQL and Python to map a 148-day churn window, projecting a 12–18% lift in retention.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tawandao2&show_icons=true&theme=default" alt="tawandao2's GitHub stats" />
