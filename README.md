@@ -60,10 +60,10 @@ Business Analytics graduate student turning data into strategy — I work across
 
 ## 🛠️ Featured Projects
 
-* [Hospital Readmission Risk Audit](https://github.com/tawandao2/hospital-readmission-risk-audit) ([live demo](ADD-STREAMLIT-LINK)): Predicts 30 day readmission on 99,340 hospital stays (AUC 0.671). The top 15% flagged group is readmitted 2.1 times as often as average, with a fairness audit by race and age and a hospital layer from CMS data.
-* * [ClaimReady](https://github.com/tawandao2/CONFIRM-REPO-NAME) ([live demo](ADD-STREAMLIT-LINK)): Prior authorization and claims denial prevention agent for healthcare insurance, with a checked AI writer.
-* [FlowMind Process Mining](https://github.com/tawandao2/flowmind-process-mining) ([live demo](ADD-STREAMLIT-LINK)): Process mining on the Road Traffic Fine event log, with an AI investigator whose findings are checked against the data before they are shown.
-* [Agentic EHR Pre-Visit Orchestrator](https://github.com/tawandao2/agentic-ehr-previsit-orchestrator) ([live demo](ADD-STREAMLIT-LINK)): Healthcare AI agent that prepares a chart summary before a visit, built on synthetic FHIR data.
+* [Hospital Readmission Risk Audit](https://github.com/tawandao2/hospital-readmission-risk-audit) : Predicts 30 day readmission on 99,340 hospital stays (AUC 0.671). The top 15% flagged group is readmitted 2.1 times as often as average, with a fairness audit by race and age and a hospital layer from CMS data.
+* [ClaimReady](https://github.com/tawandao2/CONFIRM-REPO-NAME) : Prior authorization and claims denial prevention agent for healthcare insurance, with a checked AI writer.
+* [FlowMind Process Mining](https://github.com/tawandao2/flowmind-process-mining) (: Process mining on the Road Traffic Fine event log, with an AI investigator whose findings are checked against the data before they are shown.
+* [Agentic EHR Pre-Visit Orchestrator](https://github.com/tawandao2/agentic-ehr-previsit-orchestrator) : Healthcare AI agent that prepares a chart summary before a visit, built on synthetic FHIR data.
 * [Chronic Disease Data Agent](https://github.com/tawandao2/chronic-disease-ai-agent): Natural language agent using Google's Gemini API and Streamlit that turns plain English questions into structured queries on CDC health data, returning real answers and charts.
   
 - **[Consumer Review Sentiment Analysis & Brand Benchmarking (NLP)](https://github.com/tawandao2/Listening-to-Online-Reviews-)** — Evaluated 1,500+ unstructured reviews using R, VADER sentiment analysis, and NLP to benchmark L'Occitane and La Mer on customer satisfaction.
